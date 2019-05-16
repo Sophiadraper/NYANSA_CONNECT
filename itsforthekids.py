@@ -1,4 +1,8 @@
-#hello world
+<html>
+
+<head>
+<title>NYANSA Connect</title>
+
 import requests
 from flask import Flask, render_template, request
 
