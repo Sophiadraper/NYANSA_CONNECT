@@ -198,8 +198,7 @@ ANIOMATION
 BANNER
 ---------------------------------*/
 .banner{
-    background-image: url('https://i.ibb.co/270G0BS/5928.jpg');
-  background-color:#000;
+    background-image: url('https://i.ibb.co/hVqJW4J/DSC-0498.jpg');
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -313,11 +312,11 @@ WE KNOW YOU WANT TO SEE THE WORLD. WE WANT TO HELP YOU DO IT
 }
 
 /*--------------------------------
-London
+Who we are
 ---------------------------------*/
 
 .story-img {
-    background-image: url('https://i.ibb.co/bKtC1Zw/London-Portobello-Road-Southbank-Tower-Bridge-The-Shard-0425.jpg');
+    background-image: url('https://i.ibb.co/7117KBt/DSC-0500.jpg');
     height: 0;
     padding-bottom: 52%;
     background-position: top center;
@@ -335,10 +334,10 @@ London
       color: #daa37f;
 }
 /*--------------------------------
-London
+Who we are
 ---------------------------------*/
 .half-sect__second {
-    background-image: url('https://i.ibb.co/YZ2kM9b/Banner-compressed-4.jpg');
+    background-image: url('https://i.ibb.co/DC5mB14/51116742-366514327505532-5538713035201314816-n.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -380,10 +379,10 @@ London
 }
 
 /*--------------------------------
-Singpore
+
 ---------------------------------*/
 .sect--great {
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg/1200px-Marina_Bay_Sands_in_the_evening_-_20101120.jpg');
+    background-image: url('https://i.ibb.co/Srgq523/51925949-372213186935646-6990378544928915456-o.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -395,7 +394,7 @@ Singpore
 Nairobi
 ---------------------------------*/
 .sect--best {
-    background-image: url('https://i.ibb.co/BzJTyxG/slide-two-lions.jpg');
+    background-image: url('https://i.ibb.co/KDMfLd9/49864250-353992982091000-6052529503354224640-n.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -406,7 +405,7 @@ Nairobi
 Shanghai
 ---------------------------------*/
 .sect--coolio {
-    background-image: url('https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_720,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/fpk8dstdpdma500z4pgr/OrientalPearlTower.jpg');
+    background-image: url('https://i.ibb.co/bB9CmDb/DSC-0518.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
