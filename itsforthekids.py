@@ -1,7 +1,7 @@
 @app.route("/signup", methods=["POST"])
 def sign_up():
 form_data = request.form
-print form_data ["email"]
+print form_data ["submit"]
 return "Thank you for subscribing!"
 
 @app.route("/<name>")
