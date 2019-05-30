@@ -1,1 +1,1 @@
-web: gunicorn <itsforthekids>:app
+web: gunicorn itsforthekids:app
